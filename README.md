@@ -8,7 +8,13 @@ UIKit Code base, UIKit Storyboard, SwiftUI로 구성할 계획입니다.
 
 ## Card-Flip
 
-카드 모양의 뷰를 뒤집는 애니메이션
-[UIKit Code base]
+<br>
 
-https://github.com/Taerogrammer/AnimationPractice/assets/104834390/4458f314-3bb9-4d37-aee1-7e35e005139c
+카드 모양의 뷰를 뒤집는 애니메이션
+
+<br>
+
+[SwiftUI]
+
+
+https://github.com/Taerogrammer/AnimationPractice/assets/104834390/067b7fbc-c294-43e2-8375-0da37392b550
